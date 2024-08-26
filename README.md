@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that is related about the afermentioned interest
 - 📫 How to reach me https://www.linkedin.com/in/telthony/
 
-https://roadmap.sh/card/wide/66cc800da44906b70d451cc6?variant=light&roadmaps=frontend%2Cprompt-engineering
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66cc800da44906b70d451cc6?variant=light&roadmaps=frontend%2Cprompt-engineering" alt="roadmap.sh"/></a>
 
 <!---
 LoomingLight/LoomingLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
